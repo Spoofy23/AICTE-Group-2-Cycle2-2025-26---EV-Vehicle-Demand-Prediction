@@ -1,6 +1,6 @@
 # AICTE-Group-2-Cycle2-2025-26---EV-Vehicle-Demand-Prediction
 
-You can view the detailed project presentation by downloading the [PowerPoint file here](Week_3_Project_PPT_Template1.pptx).
+You can view the detailed project presentation by downloading the [PowerPoint file here](https://docs.google.com/presentation/d/1CE92nKIT6j6BcsAzL_julA1g6vLqAPos/edit?usp=sharing&ouid=115780560820109757912&rtpof=true&sd=true).
 
 
 # 🚗 EV Vehicle Demand Prediction
