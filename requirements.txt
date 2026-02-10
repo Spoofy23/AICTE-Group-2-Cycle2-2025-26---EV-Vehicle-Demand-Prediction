@@ -1,10 +1,7 @@
-numpy
+streamlit>=1.30.0
 pandas
+numpy
 scikit-learn
-scipy
-statsmodels
-streamlit
-tensorflow
-joblib
 matplotlib
 seaborn
+protobuf<4
